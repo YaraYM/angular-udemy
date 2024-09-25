@@ -14,4 +14,7 @@
 
 ## Principais comandos CLI
 
+- Lista de comandos ng: ng --help
+- Lista com mais comandos ng: ng g --help
 - Criar novo projeto Angular: ng n nome-do-projeto / ng new nome-do-projeto
+- Rodar no servidor local: ng server / ng s
