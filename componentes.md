@@ -1,0 +1,10 @@
+# Componentes
+
+- Uma aplicação Angular é baseada em componentes
+- Com eles, nós podemos escapsular comportamentos e regras de interface, tornando a criação de aplicações algo mais simples
+- Inclusive, um componente pode encapsular outros componentes
+- Componentes permitem você dividir a UI em partes independentes, reutilizáveis
+- Trata cada parte da aplicação como um bloco isolado, livre de outras dependências externas
+- Eles aceitam entradas e retornam elementos que descrevem o que deve aparecer na tela
+
+Componente = Template HTML + Style (CSS) + Classe TS

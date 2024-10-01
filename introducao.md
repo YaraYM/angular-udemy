@@ -16,9 +16,11 @@
 - M√≥dulos*
 
 - Uma aplica√ß√£o √© formada por diversos componentes 
-- Um componente √© formado por: template HTML + style (CSS) + classe TS
+- Um componente √© formado por: template HTML + style (CSS) + classe TS (parte lÛgica + arquivo de teste unit·rio)
 - Os servi√ßos podem compartilhar dados, fazer requisi√ß√µes etc.
 - M√≥dulos n√£o existem depois do Angular17
+- MÛdulos gerenciam os componentes
+- AplicaÁ„o = MÛdulos = Componentes + ServiÁos
 
 ## Benef√≠cios
 
